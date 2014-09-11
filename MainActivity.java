@@ -26,6 +26,7 @@ public class MainActivity extends Activity {
         int i = 4;
         int i = 5;
         int i = 6;
+        int i = 7;
         return true;
     }
     
